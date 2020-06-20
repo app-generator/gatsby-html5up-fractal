@@ -1,18 +1,18 @@
 # [GatsbyJS Fractal](https://appseed.us/apps/gatsbyjs/gatsby-html5up-fractal)
 
-Open-source app built with GatsbyJS on top of HTML5Up Fractal design. 
+Open-source app built with GatsbyJS on top of HTML5Up Fractal design.
 **Forked from [this](https://github.com/anubhavsrivastava/gatsby-starter-fractal) project.**
 
 <br />
 
-![GatsbyJS Fractal - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-fractal-intro.gif?raw=true)
+![GatsbyJS Fractal - Open-Source GatsbyJS Starter.](https://raw.githubusercontent.com/app-generator/gatsby-html5up-fractal/master/media/gatsby-html5up-fractal-screen.png)
 
 <br />
 
 ## App Links
 
 - [GatsbyJS Fractal](https://gatsby-html5up-fractal.appseed.us) - live demo
-- [Fractal](https://html5up.net/fractal) - the design provided by Html5UP 
+- [Fractal](https://html5up.net/fractal) - the design provided by Html5UP
 
 <br />
 
@@ -33,8 +33,8 @@ Please access the official [Support](https://appseed.us/support) page provided b
 
 ## Resources
  
- - [GatsbyJS](https://www.gatsbyjs.org/)
- - More [GatsbyJS Apps](https://appseed.us/apps/gatsbyjs)
+- [GatsbyJS](https://www.gatsbyjs.org/)
+- More [GatsbyJS Apps](https://appseed.us/apps/gatsbyjs)
 
 <br />
 
